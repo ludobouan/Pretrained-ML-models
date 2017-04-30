@@ -2,10 +2,10 @@
 List of pre-trained ML models
 
 ## Frameworks
-- [Tensorflow](anchor1)
-- [Caffe](anchor2)
+- [Tensorflow](##Tensorflow)
+- [Caffe](#Caffe)
 - etc.
 
-## [Tensorflow](#anchor1)
+## Tensorflow
 
-## [Caffe](#anchor2)
+## Caffe
